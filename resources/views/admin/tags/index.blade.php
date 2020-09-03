@@ -38,7 +38,7 @@
                                     </tr>
                                 @empty
                                     <tr class="text-right">
-                                        <td colspan="2">کامنتی وجود ندارد</td>
+                                        <td colspan="2">هیچ تگی وجود ندارد</td>
                                     </tr>
                                 @endforelse
                             </tbody>
